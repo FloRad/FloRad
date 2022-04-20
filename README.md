@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href='https://ko-fi.com/R5R51KQBV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R51KQBV)
 
 <!--
 **FloRad/FloRad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
